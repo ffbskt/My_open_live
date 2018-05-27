@@ -1,0 +1,111 @@
+123123123
+123
+123
+123
+123
+{"user_id:"318973541, "date:"1526894049, "body:"da+}
+{"user_id":"318973541", "date":"1526894281", "body":"g1"}
+{"user_id":"318973541", "date":"1526894286", "body":"hj"}
+{"user_id":"318973541", "date":"1526894934", "body":"odd test"}
+{"source":TBot_1test1"user_id":"318973541", "date":"1527400097", "body":"1"}
+{'source': '@t1e2s3t4345bot', 'date': 1527393717.0, 'user_id': 318973541, 'body': ''}
+{'source': '@t1e2s3t4345bot', 'date': 1527393676.0, 'user_id': 318973541, 'body': ''}
+{'source': '@t1e2s3t4345bot', 'date': 1527389297.0, 'user_id': 318973541, 'body': '1'}
+{'source': '@t1e2s3t4345bot', 'date': 1527348658.0, 'user_id': 318973541, 'body': '#OpenSociety \nDeclare, Create, learn Program for do that and get more experience.'}
+{'source': '@t1e2s3t4345bot', 'date': 1527347864.0, 'user_id': 318973541, 'body': '#OpenSociety\nI need watman and draw a big tree on it. What the state I must get.'}
+{'source': '@t1e2s3t4345bot', 'date': 1527298501.0, 'user_id': 318973541, 'body': '#m \nIf you see pornhub You understand that Low cannot be equal for everybody. There are a lot of perversion.'}
+{'source': '@t1e2s3t4345bot', 'date': 1527297642.0, 'user_id': 318973541, 'body': "#m\nYou can optimise your day to get to times much better results and become better many other people's but the world has exponential difficulty It's mean that mostly of tasks you could solve only if you optimise your day in exponential  better then you do before. And it lead to important conclusion that if you relax the world will be update not so slow as if you work hard. It's only influence on who will do this update - if you want do that you need just a little better than other."}
+{'source': '@t1e2s3t4345bot', 'date': 1527227229.0, 'user_id': 318973541, 'body': "I've couldn't fall asleep - as prove of stress"}
+{'source': '@t1e2s3t4345bot', 'date': 1527227145.0, 'user_id': 318973541, 'body': "Today I feel a lot of stress my Work My schedule and Me Life Project everising have a lot of problems. A pirate of c plus plus it feels very low progress and eat a lot of time I afraid I haven't enough time to another more important things."}
+{'source': '@t1e2s3t4345bot', 'date': 1527226968.0, 'user_id': 318973541, 'body': 'Law cannot be equal to everyone.'}
+{'source': '@t1e2s3t4345bot', 'date': 1527210403.0, 'user_id': 318973541, 'body': 'Kaka'}
+{'source': '@t1e2s3t4345bot', 'date': 1527206265.0, 'user_id': 318973541, 'body': 'Miss my time to breakfast I did it at 5:40 but I need to do this at 6:40'}
+{'source': '@t1e2s3t4345bot', 'date': 1527178824.0, 'user_id': 318973541, 'body': "the final review about my life of first one week maybe more. Feel tired in the morning to always do the same thing. I need schedule of tasks which I must finish. Because I do I start to do everything during my day at correct time but the result and quality of my deals isn't an optimise. And I understand that I seldom sleep second time from 4 to 5 p.m. this point need edit. \nAbout shop and Miele It's need optimisation too. First of all I need buy the cheapest long term storing products and then just buy the same things fast."}
+{'source': '@t1e2s3t4345bot', 'date': 1527049547.0, 'user_id': 318973541, 'body': 'Then give to recheck this students and merge again))'}
+{'source': '@t1e2s3t4345bot', 'date': 1527049351.0, 'user_id': 318973541, 'body': 'Idea how to implement digitalization of students lists. We take 2 students and ask to fill table from photo. After we compare two answers and check only collisions. Add to it neronet.'}
+{'source': '@t1e2s3t4345bot', 'date': 1527037886.0, 'user_id': 318973541, 'body': "No kaka today I don't know why maybe more nervous... With work tommorow"}
+{'source': '@t1e2s3t4345bot', 'date': 1527037886.0, 'user_id': 318973541, 'body': "today the only event spoiled everything. First of All I have been at MailRu and I listened to all these reports but after me border. And all my wasted time didn't pay off."}
+{'source': '@t1e2s3t4345bot', 'date': 1526968096.0, 'user_id': 318973541, 'body': "All morning I tried to install C plus plus Visual Studio and the washing my clothes and curtains it was really difficult and I think I need to buy a new washing machine and as a problem that is not close enough good it's mean all morning Candida my baby additional time I need to fight against stupid problem"}
+{'source': '@t1e2s3t4345bot', 'date': 1526968096.0, 'user_id': 318973541, 'body': 'Create telegram bot but I have a problem with Supermarket bills'}
+{'source': '@t1e2s3t4345bot', 'date': 1526947985.0, 'user_id': 318973541, 'body': 'I am in the worst shape than ever'}
+{'source': '@t1e2s3t4345bot', 'date': 1526918365.0, 'user_id': 318973541, 'body': "I successfully create a Telegram Bot to write a diary and now I should solve two more more problem.  This big problem - is parse google archive and recognize supervarket bills. And after that I'll start streaming my live to declare my open sociaty project."}
+{'source': '@t1e2s3t4345bot', 'date': 1526890680.0, 'user_id': 318973541, 'body': '14 15 finish dinner... fill well work easy'}
+{'source': '@t1e2s3t4345bot', 'date': 1526730788.0, 'user_id': 318973541, 'body': '+ Матвеева вотсапп'}
+{'source': '@t1e2s3t4345bot', 'date': 1526721676.0, 'user_id': 318973541, 'body': ''}
+{'source': '@t1e2s3t4345bot', 'date': 1526721676.0, 'user_id': 318973541, 'body': ''}
+{'source': '@t1e2s3t4345bot', 'date': 1526721674.0, 'user_id': 318973541, 'body': 'Гуров 1к'}
+{'source': '@t1e2s3t4345bot', 'date': 1526708938.0, 'user_id': 318973541, 'body': ''}
+{'source': '@t1e2s3t4345bot', 'date': 1526708792.0, 'user_id': 318973541, 'body': ''}
+{'source': '@t1e2s3t4345bot', 'date': 1526708778.0, 'user_id': 318973541, 'body': ''}
+{'source': '@t1e2s3t4345bot', 'date': 1526708754.0, 'user_id': 318973541, 'body': 'Исаев А В'}
+{'source': '@t1e2s3t4345bot', 'date': 1526708740.0, 'user_id': 318973541, 'body': 'Муравьев'}
+{'source': '@t1e2s3t4345bot', 'date': 1526707807.0, 'user_id': 318973541, 'body': ''}
+{'source': '@t1e2s3t4345bot', 'date': 1526707791.0, 'user_id': 318973541, 'body': ''}
+{'source': '@t1e2s3t4345bot', 'date': 1526707768.0, 'user_id': 318973541, 'body': 'Осипов'}
+{'source': '@t1e2s3t4345bot', 'date': 1526707734.0, 'user_id': 318973541, 'body': ''}
+{'source': '@t1e2s3t4345bot', 'date': 1526707675.0, 'user_id': 318973541, 'body': ''}
+{'source': '@t1e2s3t4345bot', 'date': 1526707657.0, 'user_id': 318973541, 'body': ''}
+{'source': '@t1e2s3t4345bot', 'date': 1526707643.0, 'user_id': 318973541, 'body': ''}
+{'source': '@t1e2s3t4345bot', 'date': 1526707631.0, 'user_id': 318973541, 'body': ''}
+{'source': '@t1e2s3t4345bot', 'date': 1526640421.0, 'user_id': 318973541, 'body': 'Awake sleep. Feel apatty'}
+{'source': '@t1e2s3t4345bot', 'date': 1526632252.0, 'user_id': 318973541, 'body': 'Washing and come home after basketball'}
+{'source': '@t1e2s3t4345bot', 'date': 1526615961.0, 'user_id': 318973541, 'body': 'Each human collect data about himself on own PC. It is states and actions. Then all data grouping and the optimal strategy will finding'}
+{'source': '@t1e2s3t4345bot', 'date': 1526611160.0, 'user_id': 318973541, 'body': 'Just Finish Breakfast I have Only one question how to write a log'}
+{'source': '@t1e2s3t4345bot', 'date': 1526611160.0, 'user_id': 318973541, 'body': 'Wake up'}
+{'source': '@t1e2s3t4345bot', 'date': 1526563051.0, 'user_id': 318973541, 'body': 'Come Home'}
+{'source': '@t1e2s3t4345bot', 'date': 1526562133.0, 'user_id': 318973541, 'body': 'Physical culture Hull'}
+{'source': '@t1e2s3t4345bot', 'date': 1526559925.0, 'user_id': 318973541, 'body': 'https://librolife.ru/g4449567'}
+{'source': '@t1e2s3t4345bot', 'date': 1526558681.0, 'user_id': 318973541, 'body': 'Out Of Main Building'}
+{'source': '@t1e2s3t4345bot', 'date': 1526558192.0, 'user_id': 318973541, 'body': 'Finished Work on Go From House Building The Main Building in the Underground Home'}
+{'source': '@t1e2s3t4345bot', 'date': 1526523054.0, 'user_id': 318973541, 'body': 'At 7:50 I finish my breakfast porridge with  cheese and orange'}
+{'source': '@t1e2s3t4345bot', 'date': 1526520444.0, 'user_id': 318973541, 'body': 'Feel pain at the neck and back of head'}
+{'source': '@t1e2s3t4345bot', 'date': 1526519558.0, 'user_id': 318973541, 'body': "Awake at 6:50 o'clock."}
+{'source': '@t1e2s3t4345bot', 'date': 1526490071.0, 'user_id': 318973541, 'body': 'Go to sleep'}
+{'source': '@t1e2s3t4345bot', 'date': 1526480169.0, 'user_id': 318973541, 'body': 'collided with live. My washing machine was broken I tried to repair it but not successful'}
+{'source': '@t1e2s3t4345bot', 'date': 1526475324.0, 'user_id': 318973541, 'body': "High Finish to prepare to Write me стратеджи and then go to the shop buy some wash sent because I can't clean my bowl"}
+{'source': '@t1e2s3t4345bot', 'date': 1526469164.0, 'user_id': 318973541, 'body': 'I want Write All My Singing at the Devil and translate the best managers'}
+{'source': '@t1e2s3t4345bot', 'date': 1526466016.0, 'user_id': 318973541, 'body': 'When I came home I ate small and the idea is there right all special points and how I leave and then optimise my hi Blitz'}
+{'source': '@t1e2s3t4345bot', 'date': 1526465976.0, 'user_id': 318973541, 'body': 'Перекусил идея Какая записать всё как я живу по основным опорным. И дальше оптимизировать'}
+{'source': '@t1e2s3t4345bot', 'date': 1526465913.0, 'user_id': 318973541, 'body': ''}
+{'source': '@t1e2s3t4345bot', 'date': 1526465912.0, 'user_id': 318973541, 'body': 'Пришёл с работы приехал домой купил следующие продукты смотреть фотографии'}
+{'source': '@t1e2s3t4345bot', 'date': 1526453171.0, 'user_id': 318973541, 'body': 'Отр. Костенко Лоскутов и tonokot'}
+{'source': '@t1e2s3t4345bot', 'date': 1526296297.0, 'user_id': 318973541, 'body': 'Получается некоторые открытие себя как как с какого-то нового места и открытия и некоторые ощущения устойчивости'}
+{'source': '@t1e2s3t4345bot', 'date': 1526296297.0, 'user_id': 318973541, 'body': 'После этого начинаешь чувствовать появляется так скажут Ты меняешь сам себя я так приятно очень сказывается более приятно наверное чем какое-то количество денег которые ты можешь потратить больше это не останется А здесь ты идешь в манеж в зал или на игру и понимаю что ты можешь быть бесконечно а остальные не могут и ты до этого не могут себе позволить здесь конечно как бы'}
+{'source': '@t1e2s3t4345bot', 'date': 1526296296.0, 'user_id': 318973541, 'body': 'Важный момент что это возможно только когда у тебя Довольно простой график регистрации. Пускай большая свободное время почитал книжку как будет пока ездил на электричке'}
+{'source': '@t1e2s3t4345bot', 'date': 1526296296.0, 'user_id': 318973541, 'body': 'Вообще изначально если вспомнить моих детства то в большей части что ты делать заставляли родители что-то я делал исходя из своих фантазий фантазировал и дел и в это время очень удачно подходит компьютер когда игры стимулируют эту фантазию ты сможешь наберу это почти становится. Твоя реальность А ты можешь любишь фантазировать сам либо фантазировать attachto в компьютерной игре реально и поэтому подросткам нравится компьютерные игры и в принципе переживания примерно такие же как и в реальной жизни после чего но в баскетбол и всегда любил играть в компьютер просто играть играть не напрягаюсь для интереса Но я даже не знал как можно прыгать играть в баскетбол но потом я поступил в малаховское вот совсем начался переломный год когда я подумал что интересно будет выиграть мастера спорта и вот этот год но так получилось что окружение возникал такой что я жил в общежитии у меня была была небольшая работа которая оставляла мне много свободного времени и собственно я работал 4 часа в неделю в метро вообще не заходил в остальное время ходили с какой и когда поступил Малахов что-то сходиться ли выиграть в мастера спорта и это всё дело как-то систематизировал Расписал себе примерно годовой цикл начиная от еды до всех тренировок сначала основной упор был на fpv нос и власть силу и после броски игровая форма в итоге возникало много всяких разных событий которые сложно предвидеть болезни всякие но редко конечно были небольшие травмы какие-то выезда ещё что-то что мешало но в целом не удалось весь год придерживаться Четкого графика который концентрироваться только на тренировки с утра у меня была зарядка потом я шел манеж либо в тренажерный зал там час-два работал в манеж час назад Может подольше Вот и тренировка баскетбольная в Малаховке длится часа 3 часа после чего еще шел Басаев иногда раз-два в неделю'}
+{'source': '@t1e2s3t4345bot', 'date': 1526273317.0, 'user_id': 318973541, 'body': 'Вышел с поезда, еду на дачу. Был на турнире проебал 3 дня. На игры в баскетбол, хорошую компанию...'}
+{'source': '@t1e2s3t4345bot', 'date': 1526273230.0, 'user_id': 318973541, 'body': 'Делать полную логическую оптимизацию, как я понимаю, дерево решений.'}
+{'source': '@t1e2s3t4345bot', 'date': 1526026428.0, 'user_id': 318973541, 'body': 'Китайское исследование'}
+{'source': '@t1e2s3t4345bot', 'date': 1525972604.0, 'user_id': 318973541, 'body': 'На самом деле после завершения статьи ощущается проблема что там не не написано что делать сейчас конкретно'}
+{'source': '@t1e2s3t4345bot', 'date': 1525972535.0, 'user_id': 318973541, 'body': 'В течении дня было ощущение что я немножко заболеваю'}
+{'source': '@t1e2s3t4345bot', 'date': 1525972507.0, 'user_id': 318973541, 'body': 'День прошел в ожидании поездки в Петербург и небольшой подготовке к ней до 5:00 Я был на работе и эффективность В разработке моих идей была невысокой далее был прием у ректора и наконец я приехал домой поспал Собрал сумку и ждал поездки'}
+{'source': '@t1e2s3t4345bot', 'date': 1525912031.0, 'user_id': 318973541, 'body': 'Встал в 6:10 вышел без завтрака и зарядки'}
+{'source': '@t1e2s3t4345bot', 'date': 1525884095.0, 'user_id': 318973541, 'body': 'Ты занимался хернёй и ложусь спать'}
+{'source': '@t1e2s3t4345bot', 'date': 1525881002.0, 'user_id': 318973541, 'body': 'Опять поел посмотрел немного видео о самоуправляемых машинах'}
+{'source': '@t1e2s3t4345bot', 'date': 1525875254.0, 'user_id': 318973541, 'body': 'Закончил написание бумажки поел помылся отдохнул лишний раз проверил что написал И внес последние исправления. Теперь буду думать о том как это привести в жизнь в моей маленькой домашней системе'}
+{'source': '@t1e2s3t4345bot', 'date': 1525870161.0, 'user_id': 318973541, 'body': '18:46 проснулся теперь надо подумать о практическом применении теории когда проснулся делать ничего не хотелось а нужно добиваться поставленной цели'}
+{'source': '@t1e2s3t4345bot', 'date': 1525866828.0, 'user_id': 318973541, 'body': 'Кажется дописал теорию. Теперь сплю'}
+{'source': '@t1e2s3t4345bot', 'date': 1525861900.0, 'user_id': 318973541, 'body': 'Пришел с прогулки'}
+{'source': '@t1e2s3t4345bot', 'date': 1525858116.0, 'user_id': 318973541, 'body': 'пообедал, иду гулять и думать о главе создание открытого общества. Остаются проблемы с утра - куда и как складывать вещи ...'}
+{'source': '@t1e2s3t4345bot', 'date': 1525855912.0, 'user_id': 318973541, 'body': 'закончил, достаточно активное писание (+2 стр.)'}
+{'source': '@t1e2s3t4345bot', 'date': 1525840269.0, 'user_id': 318973541, 'body': 'Зарядку не делал болит затылок'}
+{'source': '@t1e2s3t4345bot', 'date': 1525840203.0, 'user_id': 318973541, 'body': 'Полчаса ещё какую-то х****теперь начинаю делать план действий.'}
+{'source': '@t1e2s3t4345bot', 'date': 1525838614.0, 'user_id': 318973541, 'body': 'Закончил завтракать начинаю разрабатывать план действий'}
+{'source': '@t1e2s3t4345bot', 'date': 1525837587.0, 'user_id': 318973541, 'body': 'Принес компьютер подключил Интернет всё работает начал завтракать когда Подключаешь Интернет то возникает ощущение Свободы'}
+{'source': '@t1e2s3t4345bot', 'date': 1525836769.0, 'user_id': 318973541, 'body': ''}
+{'source': '@t1e2s3t4345bot', 'date': 1525832369.0, 'user_id': 318973541, 'body': 'Просыпался в 5:00 утра быстро заснул и сейчас 8:20 в 5:00 утра хотелось секса'}
+{'source': '@t1e2s3t4345bot', 'date': 1525804367.0, 'user_id': 318973541, 'body': 'Направленность кровать ложись спать'}
+{'source': '@t1e2s3t4345bot', 'date': 1525803800.0, 'user_id': 318973541, 'body': 'Начал заправлять кровать и раскладываться'}
+{'source': '@t1e2s3t4345bot', 'date': 1525533936.0, 'user_id': 318973541, 'body': 'Аспекты открытого общества.\n1. Открыть всю информацию\n2. Избегать необратимых процессов - смерть.\n3. Стараться разделить и упростить процессы, что бы срыв одного не влек цепочку.\n4. Увеличивать порядок - из двух действий выбирать то к которому'}
+{'source': '@t1e2s3t4345bot', 'date': 1525497510.0, 'user_id': 318973541, 'body': 'Азбука системного мышления - с 181.'}
+{'source': '@t1e2s3t4345bot', 'date': 1525443986.0, 'user_id': 318973541, 'body': '! Выбор смысла и оптимизация действий связанная со смыслом.'}
+{'source': '@t1e2s3t4345bot', 'date': 1525442168.0, 'user_id': 318973541, 'body': 'Прямое вознаграждение за принятие определенного смысла. Запись процесса принятия этого смысла и дальнейшего удостоверение в устойчивости'}
+{'source': '@t1e2s3t4345bot', 'date': 1525440595.0, 'user_id': 318973541, 'body': 'Делается bot telegram который следит за тем чтобы пользователи он писал некорректный запрос и выполняли какие-то запросы осуществляются со свидетелями какие-то сами по себе Первое это нужно иметь'}
+{'source': '@t1e2s3t4345bot', 'date': 1525439329.0, 'user_id': 318973541, 'body': 'Особенности открытого общества\nЛюбое состояние должно быть записано\nОбратимость. \nСокращение зависимости философия аналогичная с написанием кода производственного.\nМир единая корпорация, только необходимо решить вопрос с кем ей конкурировать и как выбирать цели и совет директоров'}
+{'source': '@t1e2s3t4345bot', 'date': 1525335649.0, 'user_id': 318973541, 'body': 'Wedding Trend на всё более продолжительное предсказание таким образом видно как коммуникации меняются эволюционно можно менять их и быстрей'}
+{'source': '@t1e2s3t4345bot', 'date': 1525335617.0, 'user_id': 318973541, 'body': 'Естественный отбор свойства случайно образована система забор энергии из среды коммуникация И предсказания позволяют более эффективно забрать энергию Проще говорить более абстрактно есть молекулы РНК есть среда они забирают энергию для копирование после каждого копирование среда меняется далее мы видим как в результате итерации появляются сложные структуры РНК которая способна поддержать организм и разные функции в основном получение информации и и среды многие имеют глаза и уши появляется человек который научился передавать предсказание модель невозможно так как необходимо Передать все физические свойства среды как мы видим дельфины используют ультразвук механизм передачи предсказания очень эффективная вещь в сравнении с перебором системы также поглощают энергию других систем если их механизм был более мощным таким образом образуется отношения между людьми и иногда ложь более эффективна чем истина'}
+{'source': '@t1e2s3t4345bot', 'date': 1525327080.0, 'user_id': 318973541, 'body': 'Как только у человека появилась коммуникация он стал передавать предсказание развития дальнейших событий. Предсказание дальнейших событий в сложном мире задача очень трудно и я до сих пор невозможно решить но можно сделать предсказание на короткое время и для частных случаев например изначально когда человек говорил о своих намерениях и сам же их исполнение Это самый простой способ предсказать дальше С развитием науки и религии люди научились делать более сложные предсказание'}
+{'source': '@t1e2s3t4345bot', 'date': 1525326954.0, 'user_id': 318973541, 'body': 'От зарождения жизни кидали проходил эволюционный отбор книга об образовании жизни можно заметить что Случайность приводит к уменьшению энтропии РНК возникшее случайно имеет себе механизм устойчиво уменьшить энтропию именно это создал о живой природы Живая природа постоянно увеличивается сложность это практически физический закон Живая природа также подчиняется эволюционным законам отличие человека от остальных это случайное появление возможности коммуницировать коммуникаций отдала конкурентные преимущества и самая создание подчиняется тем же законам естественного отбора коммуникация конкурирует сама с собой Как зародился язык.'}
+{'source': '@t1e2s3t4345bot', 'date': 1525256490.0, 'user_id': 318973541, 'body': ''}
+{'source': '@t1e2s3t4345bot', 'date': 1525256455.0, 'user_id': 318973541, 'body': 'Max utility, all rational, agrigate demand depend of wealth.\nFor production min cost max profit.'}
+{'user_id': 318973541, 'date': 1527393717.0, 'source': '@t1e2s3t4345bot', 'body': ''}
