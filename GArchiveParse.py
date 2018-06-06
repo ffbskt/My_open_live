@@ -70,5 +70,5 @@ class GArchiveParse:
 
 
 if __name__ == "__main__":
-    a = GArchiveParse()
-    a.keep_parse(data_file='Log_raw/Gkeep_arc.txt')
+    a = GArchiveParse(data_file="/Test/t_keep.txt")
+    a.keep_parse(name="Test/TKeep", data_file='Test/t_keep.txt')
