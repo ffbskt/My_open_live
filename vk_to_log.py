@@ -54,10 +54,11 @@ class VkArchive:
             i += self.MAXC
         return full_conv
 
-    def log_from_vk(self):
+    def log_from_vk(self, file_log='Log_raw/vk_log.txt'):
         n = self.vk.messages.getDialogs()['count']
         log = []
         i = 0
+        dial_counts = 0
         while i < n:
             time.sleep(0.3)
             dialogs = self.vk.messages.getDialogs(offset=i, count=self.MAXC)
@@ -66,9 +67,13 @@ class VkArchive:
             for id in ids:
                 full_conv = self.get_full_conv(id, self.vk)
                 log.extend(self.message_to_log(full_conv))
-
+                dial_counts += 1
+                print(dial_counts, '/', n, end=' ,')
                 # !! get last date take any date even from other dialogs
-                util.write_log_new(file='Log_raw/vk_log.txt', logs=log, new_t=util.get_last_date('Log_raw/vk_log.txt'))
+                #util.write_log_new(file=file_log, logs=log, new_t=0)
+        print(len(log))
+        sorted(log, key=lambda x: x['date'])
+        util.write_log_new(file=file_log, logs=log, new_t=util.get_last_date(file_log))
                 # print(i, ids[:10], len(ids))
 
 
@@ -81,7 +86,9 @@ class VkArchive:
 
     def message_to_log(self, full_conv):
         log = []
-        user = self.encrypt_vkid(full_conv[0]['user_id'], vk)
+        if full_conv == []:
+            return log
+        user = self.encrypt_vkid(full_conv[0]['user_id'], self.vk)
         for mes in full_conv:
             to, fr = user, user
             if mes['from_id'] == mes['user_id']:
@@ -106,5 +113,5 @@ if __name__ == "__main__":
         VK = json.loads(f.read())['VK']
         f.close()
 
-    arch = VkArchive(VK["log"], VK["pass"])
-    print(VK)
+    vk_arch = VkArchive(VK["log"], VK["pass"])
+    vk_arch.log_from_vk() #()

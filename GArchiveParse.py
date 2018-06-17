@@ -249,6 +249,8 @@ class GSearchParse:
 
     def log_from_gsearch(self):
         string = self.html_dt.split('class')
+        print("search {}".format(self.data_file))
+        print("find {} clasess".format(len(string)))
         for i in string:#
             line = (re.findall(string=i, pattern='[А-Яа-я].*\d+:\d+:\d+'))
             if line:
@@ -261,6 +263,10 @@ class GSearchParse:
                     url, text = quory[0][3:].split('\">')
                     body = {'type': quory[0][0], 'url': url, 'text': text[:-4]}
                     self.log.append(util.add_to_log(date=date, source='GSearch', id='my', body=body))
+        print("finish with {} clasess".format(len(self.log)))
+        print("start {} - end {} ".format(util.time_int_to_str(self.log[0]["date"]),
+                                          util.time_int_to_str(self.log[-1]["date"])
+                                          ))
 
     def write_log(self, log_file="Log_raw/GSearch_log.txt"):
         print(len(self.log))
@@ -271,6 +277,7 @@ class GSearchParse:
 class Android(GSearchParse):
     # TODO make interface for parsers
     def __init__(self, data_file="Takeout/Мои действия/Android/МоиДействия.html"):
+        self.data_file = data_file;
         with open(data_file, 'r') as f:
             self.html_dt = f.read()
             f.close()
@@ -278,10 +285,12 @@ class Android(GSearchParse):
 
     def log_from_android(self):
         string = self.html_dt.split('class')
-
+        print("Android {}".format(self.data_file))
+        print("find {} clasess".format(len(string)))
 
         for i in string:
             line = (re.findall(string=i, pattern='[А-Яа-я].*\d+:\d+:\d+'))
+
             if line:
                 # print(line)
                 date = self.gsearch_date_normalize(line[0])
@@ -295,7 +304,10 @@ class Android(GSearchParse):
                     body = {'app': apponly[0][6:-4]}
                 if body:
                     self.log.append(util.add_to_log(date=date, source='Android', id='my', body=body))
-
+        print("finish with {} clasess".format(len(self.log)))
+        print("start {} - end {} ".format(util.time_int_to_str(self.log[0]["date"]),
+                                          util.time_int_to_str(self.log[-1]["date"])
+                                          ))
 
 
     #log_from_gsearch(html_dt[:150000])
@@ -304,13 +316,13 @@ if __name__ == "__main__":
     #k = GKeepParse(data_file="/Test/t_keep.txt")
     #k.keep_parse(name="Test/TKeep", data_file='Test/t_keep.txt')
 
-    #g = GLocationParse()
-    #g.log_from_loc_hist(end_date="2013-10-03 4:00:00")
+    g = GLocationParse()
+    g.log_from_loc_hist(end_date="2018-10-03 4:00:00")
 
     #s = GSearchParse()
     #s.log_from_gsearch()
     #s.write_log()
 
-    a = Android()
-    a.log_from_android()
-    a.write_log(log_file="Log_raw/Android_log.txt")
+    #a = Android()
+    #a.log_from_android()
+    #a.write_log(log_file="Log_raw/Android_log.txt")

@@ -1,8 +1,10 @@
 import json
+import datetime
+import math
 
 def add_to_log(source, id, date, body):
     log = ({"source":source, "user_id":str(id), "date":date,
-            "body":str(body)})
+            "body":body})
     return log
 
 def get_all_message(file_adr):
@@ -35,6 +37,37 @@ def write_log_new(file, logs=None, new_t=0):
     """
     with open(file, 'a') as dt:
         for log in logs:
-            if log['date'] > new_t:
-                dt.write(json.dumps(log, sort_keys=True) + '\n')
+            try:
+                if log['date'] > new_t:
+                    #print(log())
+                    dt.write(json.dumps(log, sort_keys=True) + '\n')
+            except TypeError:
+                pass
         dt.close()
+
+def time_str_to_int(t):
+    # return seconds
+    if ":" in t:
+        d = datetime.datetime.strptime(t, "%Y-%m-%d %H:%M:%S").timestamp()
+    else:
+        d = datetime.datetime.strptime(t, "%Y-%m-%d").timestamp()
+    return d  # * MILS_TO_S
+
+def time_int_to_str(t):
+    # t seconds
+    return datetime.datetime.fromtimestamp(t)
+
+def getDistanceFromLatLonInKm(lat1, lon1, lat2, lon2):
+    # Copyright 2012-2017 Gerwin Sturm
+    R = 6371  # Radius of the earth in km
+    dlat = deg2rad(lat2 - lat1)
+    dlon = deg2rad(lon2 - lon1)
+    a = math.sin(dlat / 2) * math.sin(dlat / 2) + \
+        math.cos(deg2rad(lat1)) * math.cos(deg2rad(lat2)) * \
+        math.sin(dlon / 2) * math.sin(dlon / 2)
+    c = 2 * math.atan2(math.sqrt(a), math.sqrt(1 - a))
+    d = R * c  # Distance in km
+    return d
+
+def deg2rad(deg):
+    return deg * (math.pi / 180)
